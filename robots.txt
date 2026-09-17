@@ -1,0 +1,3 @@
+User-agent: *
+Disallow:
+Sitemap: https://magbanuajustin.github.io/minsu-calapan-campus-bulletin/sitemap.xml
