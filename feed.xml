@@ -3,12 +3,42 @@
     <title>MinSU Calapan Campus Bulletin</title>
     <link href="https://magbanuajustin.github.io/minsu-calapan-campus-bulletin/feed.xml" rel="self" />
     <link href="https://magbanuajustin.github.io/minsu-calapan-campus-bulletin" />
-    <updated>2026-10-06T12:57:34+08:00</updated>
+    <updated>2026-10-06T13:05:28+08:00</updated>
     <author>
         <name>Magbanua, Justin</name>
     </author>
     <id>https://magbanuajustin.github.io/minsu-calapan-campus-bulletin</id>
 
+    <entry>
+        <title>Demonstration</title>
+        <author>
+            <name>Magbanua, Justin</name>
+        </author>
+        <link href="https://magbanuajustin.github.io/minsu-calapan-campus-bulletin/demonstration/"/>
+        <id>https://magbanuajustin.github.io/minsu-calapan-campus-bulletin/demonstration/</id>
+            <category term="Events"/>
+
+        <updated>2026-10-06T13:05:28+08:00</updated>
+            <summary type="html">
+                <![CDATA[
+                    Demonstration qqw qwe qw qwe qwe qwe qw e
+                ]]>
+            </summary>
+        <content type="html">
+            <![CDATA[
+                <figure class="post__image"><img loading="lazy"  src="https://magbanuajustin.github.io/minsu-calapan-campus-bulletin/media/posts/10/489705262_1658513534772311_2770836952121284302_n.jpg" alt="" width="480" height="360" sizes="(max-width: 1920px) 100vw, 1920px" srcset="https://magbanuajustin.github.io/minsu-calapan-campus-bulletin/media/posts/10/responsive/489705262_1658513534772311_2770836952121284302_n-xs.jpg 640w ,https://magbanuajustin.github.io/minsu-calapan-campus-bulletin/media/posts/10/responsive/489705262_1658513534772311_2770836952121284302_n-sm.jpg 768w ,https://magbanuajustin.github.io/minsu-calapan-campus-bulletin/media/posts/10/responsive/489705262_1658513534772311_2770836952121284302_n-md.jpg 1024w ,https://magbanuajustin.github.io/minsu-calapan-campus-bulletin/media/posts/10/responsive/489705262_1658513534772311_2770836952121284302_n-lg.jpg 1366w ,https://magbanuajustin.github.io/minsu-calapan-campus-bulletin/media/posts/10/responsive/489705262_1658513534772311_2770836952121284302_n-xl.jpg 1600w ,https://magbanuajustin.github.io/minsu-calapan-campus-bulletin/media/posts/10/responsive/489705262_1658513534772311_2770836952121284302_n-2xl.jpg 1920w"></figure>
+<p>Demonstration  qqw</p>
+<p> </p>
+<p>qwe</p>
+<p>qw</p>
+<p>qwe</p>
+<p>qwe</p>
+<p>qwe</p>
+<p>qw</p>
+<p>e</p>
+            ]]>
+        </content>
+    </entry>
     <entry>
         <title>ertyguhijokojihuytrtyui</title>
         <author>
